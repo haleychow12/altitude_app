@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Altimeter App</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Temperature">Temperature</string>
+    <string name="Altitude">Altitude</string>
+    <string name="Pressure">Pressure</string>
+    <string name="Measurement_Rate">Measurement Rate</string>
+    <string name="Floor_Num">Floor</string>
+    <string name="Altimeter">Altimeter</string>
+    <string name="station">At KTTN</string>
+    <string name="elevation_range">Elevation Range</string>
+    <string name="pressure_range">Pressure Range</string>
+</resources>
